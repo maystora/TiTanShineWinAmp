@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="body">#120F1F</color>
+    <color name="body_2">#0B0914</color>
+    <color name="edge">#2E2748</color>
+    <color name="ink">#ECE8F7</color>
+    <color name="ink_soft">#A59CC2</color>
+    <color name="vfd_bg">#07050F</color>
+    <color name="vfd">#C59BFF</color>
+    <color name="vfd_glow">#B3A46BFF</color>
+    <color name="vfd_dim">#33284F</color>
+    <color name="vfd_warn">#FF5FD2</color>
+    <color name="key">#1D1830</color>
+    <color name="key_pressed">#2A2245</color>
+    <color name="play">#8E4DFF</color>
+    <color name="play_pressed">#7436E6</color>
+    <color name="play_ink">#FFFFFF</color>
+    <color name="row_active">#2A2148</color>
+    <color name="strip_start">#5B22FF</color>
+    <color name="strip_mid">#A35CFF</color>
+    <color name="strip_end">#FF5FD2</color>
+</resources>
